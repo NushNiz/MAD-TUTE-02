@@ -3,5 +3,5 @@
     <string name="et_value">Enter a Temprature Value</string>
     <string name="btn_celcious">Celsius</string>
     <string name="btn_faranhite">Faranahite</string>
-    <string name="btn_calculate">CALCULATE</string>
+    <string name="btn_calculate">CALCULATE Temp</string>
 </resources>
