@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tute02MAD</string>
+    <string name="et_value">Enter a Temprature Value</string>
+    <string name="btn_celcious">Celsius</string>
+    <string name="btn_faranhite">Faranahite</string>
+    <string name="btn_calculate">Calculate</string>
+</resources>
